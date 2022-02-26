@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    margin-top: 20%;
+    font-family: 'Stylish', popins;
+    background-color: rgb(202, 195, 236);
+}
+table,td{
+    border: 3px solid rgb(101, 8, 104);
+    border-collapse: collapse;
+    padding: 7px;
+   
+}
+h1{
+
+}
+table{
+    margin-left: auto;
+    margin-right:auto;
+    background-color: white;
+}
+button{
+    margin-top: 10px;
+    background-color: black;
+    color:white;
+}
